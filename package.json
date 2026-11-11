@@ -1,0 +1,9 @@
+{
+  "name": "amira-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Amira AI Fashion Affiliate Prompt Generator",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
